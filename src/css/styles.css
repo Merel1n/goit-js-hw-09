@@ -40,6 +40,17 @@ ol {
   height: auto;
   display: block;
 }
+
+.sl-wrapper.simple-lightbox > .sl-counter,
+.sl-wrapper.simple-lightbox .sl-navigation button,
+.sl-wrapper.simple-lightbox .sl-close {
+  color: #fff !important;
+}
+
+.sl-wrapper.simple-lightbox {
+  background-color: #2e2f42cc !important;
+}
+
 .feedback-form {
   width: 408px;
   padding: 24px;
